@@ -1,0 +1,59 @@
+
+.GET/api/v1/Authors
+
+ -Test case 1: response should be "200 OK"
+ expected result:200 OK
+ actual result :200 OK
+ status :pass
+
+ -Test case 2:objects inside response contain id,idBook,firstName,lastName
+  expected result:200 OK
+  actual result: 200 OK
+  status : pass
+
+
+
+
+.POST/api/v1/Authors
+
+ -Test case 1:Register a new valid Author successfully and response code "201 created"
+  expected result: 201 created
+  actual result:200 OK
+  status: fail
+
+ -Test case 2:check firstName and lastName
+  expected result:200 OK
+  actual result :200  OK
+  status :pass
+
+
+
+.GET/api/v1/Authors/authors/books/{idBook}
+
+ -Test case1 :searching with valid idBook=5 should return relative data in response body
+ expected result :200 OK
+ actual result :200 OK
+ status : pass
+
+
+
+ .PUT/api/v1/Authors/{id}
+
+ -Test case 1 : Author`s data is updated successfully
+ expected result : 200 OK
+ actual result :200 OK
+ status: pass
+
+
+
+
+ .GET/api/v1/Authors/{id}
+ 
+-Test case1:the author`s data is changed in GET request
+ expected result : 400 bad request
+ actual result :200 OK 
+ status : fail
+
+
+
+

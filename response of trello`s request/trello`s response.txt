@@ -1,0 +1,213 @@
+ response of this request, https://api.trello.com/1/members/me?boards=open&key={{key}}&token={{token}}
+
+
+
+{
+    "id": "61d9fc3a3344960bcc191695",
+    "aaId": "61d9fc377aa7ac0070652c89",
+    "activityBlocked": false,
+    "avatarHash": "e8a80dc8e006c7f71ff443d2cbc17202",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/61d9fc3a3344960bcc191695/e8a80dc8e006c7f71ff443d2cbc17202",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "sondos mohamed",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "SM",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/sondosmohamed13",
+    "username": "sondosmohamed13",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "sondosmohamedwael@gmail.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "23a3a179a444d51c470d8316ceeabc08",
+    "idBoards": [
+        "62a7144990929962f039643a",
+        "62d7fec48db4c9685661bb11",
+        "632b3dc407e28802153e801e",
+        "632b401426cf9900186b8b9c",
+        "632b41e3e7ce7600ed41a89c",
+        "632b43e9eb3c9d00f54f3d17",
+        "632b4418b950af035021f09f",
+        "6332c37864811b00592d784b",
+        "6332e53e1b6735018879665a",
+        "6334bad0c73e0b01192d8498",
+        "633544ec5a17870179eb17fb",
+        "633578b71d470804bcd7297d",
+        "63357bf9d15d6f038ec0fd99",
+        "633dfc134337fc0371022678",
+        "633e037911ae63002931d801",
+        "633e068ffabe8e0227c7d784",
+        "633e07e48aeb9c00176991e5",
+        "633e0d97e7f986010a326456",
+        "633ea4973d43a300f5d930c4",
+        "633eb8aaddc86101f680661b",
+        "6340c1f7b9aac9038940ad9e",
+        "6340c852964393012bb11ada",
+        "6341c56e2f2dbe0352aa3b7e"
+    ],
+    "idOrganizations": [
+        "61d9fc5e4d1683707ecef659",
+        "62d7fe7902fcee5ff59c5296"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2022-01-08T21:03:56.136Z"
+    },
+    "messagesDismissed": [],
+    "oneTimeMessagesDismissed": [
+        "workspace-nav-enabled",
+        "sent-possible-new-signup-event",
+        "close-menu-of-first-board",
+        "team-template-picker-61d9fc5e4d1683707ecef659"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-GB"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "351",
+    "boards": [
+        {
+            "id": "62a7144990929962f039643a",
+            "name": "Healthcare May cohort",
+            "closed": false,
+            "idOrganization": "61d9fc5e4d1683707ecef659",
+            "pinned": false
+        },
+        {
+            "id": "62d7fec48db4c9685661bb11",
+            "name": "first project test scenarios",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "632b3dc407e28802153e801e",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "6341c56e2f2dbe0352aa3b7e",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "61d9fc5e4d1683707ecef659",
+            "pinned": false
+        },
+        {
+            "id": "633544ec5a17870179eb17fb",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "6332c37864811b00592d784b",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "632b401426cf9900186b8b9c",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "6340c852964393012bb11ada",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "61d9fc5e4d1683707ecef659",
+            "pinned": false
+        },
+        {
+            "id": "6332e53e1b6735018879665a",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "632b41e3e7ce7600ed41a89c",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "6334bad0c73e0b01192d8498",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "632b43e9eb3c9d00f54f3d17",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        },
+        {
+            "id": "632b4418b950af035021f09f",
+            "name": "sondos",
+            "closed": false,
+            "idOrganization": "62d7fe7902fcee5ff59c5296",
+            "pinned": false
+        }
+    ]
+}
